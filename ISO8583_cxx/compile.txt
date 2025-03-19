@@ -1,0 +1,7 @@
+ONLY __linux__
+
+g++ servidor.cpp -o servidor
+./servidor
+
+g++ cliente.cpp -o cliente
+./cliente
